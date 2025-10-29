@@ -1,0 +1,10 @@
+name: ExtremeTeams
+main: dev.allenalt.extremeteams.ExtremeTeams
+version: 29.9.25
+author: Dev_Allenalt_tw
+api-version: 1.21
+commands:
+  team:
+    description: Main command for ExtremeTeams
+    usage: /team <create|join|leave|disband|invite>
+    aliases: [teams]
